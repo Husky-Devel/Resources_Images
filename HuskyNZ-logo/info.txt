@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: EnigmaB_2
+font link: https://www.fontsquirrel.com/fonts/Enigmatic
+font author: Objets Dart
+font author site: http://www.objetsdart.ca
+
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg-gradient-0":"#E90DCA","bg-gradient-1":"#1536F1","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
